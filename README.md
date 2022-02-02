@@ -1,3 +1,6 @@
 # AITB
---
-## 자동매매
+
+## AI Concept
+## Coin
+## Stock
+
